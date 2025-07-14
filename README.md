@@ -1,4 +1,4 @@
-# Movies-Recommdation-System_Project
+# Movies-Recommdation-System-Project
 
 🎥 Content-Based Movie Recommendation System Using Machine Learning – My Project Update!
 
